@@ -10,9 +10,19 @@
     justify-content: center;
     margin: 10px;
     font-family: Calibri, sans-serif;
+    border-radius: 10px;
 }
 .top-nav a {
     padding: 5px;
+}
+.events {
+    padding: 10px;
+}
+.quote {
+    text-align: center;
+}
+.talks {
+    padding: 15px;
 }
 h3 {
     font-family: Calibri, sans-serif;
@@ -25,4 +35,10 @@ p {
 
 h1 {
     text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
